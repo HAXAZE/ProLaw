@@ -22,5 +22,3 @@ This C++ program implements a Police Station Management System to manage informa
     ```bash
     git clone https://github.com/HAXAZE/ProLaw.git
     ```
-
-2. **Compile the program:**
