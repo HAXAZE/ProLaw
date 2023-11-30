@@ -24,13 +24,3 @@ This C++ program implements a Police Station Management System to manage informa
     ```
 
 2. **Compile the program:**
-    ```bash
-    g++ policestation.cpp -o policestation
-    ```
-
-3. **Run the executable:**
-    ```bash
-    ./policestation
-    ```
-
-4. **Follow the on-screen instructions to navigate through the system.**
